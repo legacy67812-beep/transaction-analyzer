@@ -1,0 +1,6 @@
+user,amount,status
+alice,100,success
+bob,50,failed
+alice,200,success
+charlie,abc,success
+bob,75,success
